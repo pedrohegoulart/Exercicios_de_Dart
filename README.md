@@ -14,7 +14,7 @@ Exibir o caminho do SDK do Flutter:<br/>
 - [x] **~~Instalar Dart e Flutter~~**
 - [ ] **Revisar exercicios de Dart**
     - [x] Fundamentos 
-    - [ ] Estrutura de controle
+    - [x] Estrutura de controle
     - [ ] Funções
     - [ ] POO
     - [ ] Outros
